@@ -71,13 +71,18 @@ Hand-Drawn Wireframes
 Southern Alumni needs to add a job offers section which will take info from Southern Alumni and display job offers.
 
 # #Technologies Used
-Android Studio
-Kotlin
-Firebase
+.Android Studio
+
+.Kotlin
+
+.Firebase
 # # #Contributors
-Tarun Sagar Rachakonda
-Nikhil Tallapally
-Divya Mamillapalli
-Pravalika Sribhashyam
+.Tarun Sagar Rachakonda
+
+.Nikhil Tallapally
+
+.Divya Mamillapalli
+
+.Pravalika Sribhashyam
 # # #License
 This project is licensed under the MIT License. See LICENSE for more information.
