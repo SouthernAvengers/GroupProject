@@ -64,7 +64,7 @@ The app's primary feature is student management. Future features could include a
  View Students Screen: Users can click on a student record to view more details or edit/delete the record.
 # #Wireframes
 Hand-Drawn Wireframes
-(Insert hand-drawn wireframes here)
+https://ibb.co/LnY7fHb
 # #GIF
 
 # # # Future Scope
