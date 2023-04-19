@@ -36,6 +36,7 @@ The app can be used daily or as needed, depending on the user's needs.
 The app's primary feature is student management. Future features could include attendance tracking, grading, and report generation.
 
 #  Product Spec
+
 # # User Features
 # # # Required Features
  []Add a new student record
@@ -49,7 +50,7 @@ The app's primary feature is student management. Future features could include a
  []Capture student images using the device's camera
  
  []Generate reports on student attendance, grades, and overall performance
-  #Screen Archetypes
+ # # # Screen Archetypes
  Add Student Screen: Users can add new student records to the app's database.
  View Students Screen: Users can view all the students' records stored in the app's database.
 # # # Navigation
@@ -75,7 +76,7 @@ Southern Alumni needs to add a job offers section which will take info from Sout
 .Kotlin
 
 .Firebase
-# # #Contributors
+# # # Contributors
 .Tarun Sagar Rachakonda
 
 .Nikhil Tallapally
@@ -83,5 +84,5 @@ Southern Alumni needs to add a job offers section which will take info from Sout
 .Divya Mamillapalli
 
 .Pravalika Sribhashyam
-# # #License
+# # # License
 This project is licensed under the MIT License. See LICENSE for more information.
