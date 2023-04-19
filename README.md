@@ -1,5 +1,5 @@
-Group Project
-Southern Alumni
+##Group Project
+##Southern Alumni
 Table of Contents
 Overview
 App Evaluation
