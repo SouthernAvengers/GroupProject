@@ -40,11 +40,15 @@ The app's primary feature is student management. Future features could include a
 # #User Features
 # #Required Features
  []Add a new student record
+ 
  []View all student records
 # #Stretch Features
  []Edit and delete student records
+ 
  []Search for a specific student by name or banner ID
+ 
  []Capture student images using the device's camera
+ 
  []Generate reports on student attendance, grades, and overall performance
 # #Screen Archetypes
  Add Student Screen: Users can add new student records to the app's database.
