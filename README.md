@@ -65,8 +65,7 @@ The app's primary feature is student management. Future features could include a
 Hand-Drawn Wireframes
 https://ibb.co/LnY7fHb
 # #GIF
-Prototype
-https://submissions.us-east-1.linodeobjects.com/and102/ZhZhF3eL.gif
+https://submissions.us-east-1.linodeobjects.com/and102/WmpPaZzQ.gif
 # # # Future Scope
 Southern Alumni needs to add a job offers section which will take info from Southern Alumni and display job offers.
 
