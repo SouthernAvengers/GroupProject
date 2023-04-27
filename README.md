@@ -66,6 +66,8 @@ Hand-Drawn Wireframes
 https://ibb.co/LnY7fHb
 # #GIF
 https://submissions.us-east-1.linodeobjects.com/and102/WmpPaZzQ.gif
+# # Demo Day Prep
+https://youtu.be/iyPhLaMuwzk
 # # # Future Scope
 Southern Alumni needs to add a job offers section which will take info from Southern Alumni and display job offers.
 
