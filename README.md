@@ -42,9 +42,9 @@ The app's primary feature is student management. Future features could include a
  - [x] Add a new student record
  - [x] View all student records
 # # # Stretch Features
- - [] Edit and delete student records
+ - [x] Edit and delete student records
  
- - [] Search for a specific student by name or banner ID
+ - [x] Search for a specific student by name or banner ID
  
  - [] Capture student images using the device's camera
  
@@ -65,7 +65,7 @@ The app's primary feature is student management. Future features could include a
 Hand-Drawn Wireframes
 https://ibb.co/LnY7fHb
 # #GIF
-https://submissions.us-east-1.linodeobjects.com/and102/WmpPaZzQ.gif
+https://submissions.us-east-1.linodeobjects.com/and102/_0C849Bw.gif
 # # Demo Day Prep
 https://youtu.be/iyPhLaMuwzk
 # # # Future Scope
